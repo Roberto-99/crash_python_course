@@ -1,4 +1,4 @@
-def divisible (n,d):
+def divisible(n,d):
     """A function that checks if two numbers are divisible or not
     Parameters
     ----------
